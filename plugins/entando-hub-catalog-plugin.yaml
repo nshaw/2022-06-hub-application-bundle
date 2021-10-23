@@ -1,4 +1,4 @@
-image: germanogiudici/entando-hub-catalog-ms:0.0.3-SNAPSHOT
+image: germanogiudici/entando-hub-catalog-ms:0.2.0-SNAPSHOT
 dbms: none
 ingressPath: "/entando-hub-api"
 healthCheckPath: "/actuator/health"
