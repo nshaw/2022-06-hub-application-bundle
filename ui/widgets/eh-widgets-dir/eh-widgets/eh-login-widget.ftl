@@ -1,6 +1,6 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />entando-hub-bundle/static/js/2.aad995b9.chunk.js"></script>
-<script src="<@wp.resourceURL />entando-hub-bundle/static/js/main.1414dd71.chunk.js"></script>
+<script src="<@wp.resourceURL />entando-hub-bundle/static/js/2.579dd4c1.chunk.js"></script>
+<script src="<@wp.resourceURL />entando-hub-bundle/static/js/main.938c247f.chunk.js"></script>
 <script src="<@wp.resourceURL />entando-hub-bundle/static/js/runtime-main.e5bc990e.js"></script>
 <link href="<@wp.resourceURL />entando-hub-bundle/static/css/main.19c9a0c0.chunk.css" rel="stylesheet">
 <#-- entando_resource_injection_point -->
